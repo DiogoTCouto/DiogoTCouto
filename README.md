@@ -12,7 +12,7 @@ Hello world, I'm **Diogo Couto** 👋
 
 I'm a recent graduate with a degree in **Computer and Informatics Engineering** from the University of Aveiro <img src="https://clusterhabitat.pt/wp-content/uploads/2024/03/logoUA.png" width="50" />.
 
-###  My Final Year-long Project  🔭🧑‍🦳🏠
+###  My Final Year-long Project 
 
 <p align="center"> <strong> Radar-Based Human Activity Recognition </strong>
 <table align="center">
@@ -40,7 +40,7 @@ This project, my final year thesis, demonstrates a complete pipeline and functio
   <img src="https://solace.com/wp-content/uploads/2025/07/mqtt-and-paho.png" width="73px" alt="MQTT and Paho" />
 </p>
 
-### 💻 My Tech Stack
+### My Tech Stack
 Some more of the technologies I'm proficient in and enjoy working with.
 
 <p align="center">
@@ -48,8 +48,6 @@ Some more of the technologies I'm proficient in and enjoy working with.
 </p>
 
 ### 📫 Let's Connect
-I'm always open to connecting with fellow developers, students, and professionals. Feel free to reach out!
-
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-couto-8056b2312" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Connect on LinkedIn"/>
@@ -59,10 +57,3 @@ I'm always open to connecting with fellow developers, students, and professional
   </a>
 </p>
 
-<details>
-<summary>📊 My GitHub Stats</summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiogoTCouto&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoTCouto&layout=compact&theme=dracula&hide_border=true" />
-</p>    
